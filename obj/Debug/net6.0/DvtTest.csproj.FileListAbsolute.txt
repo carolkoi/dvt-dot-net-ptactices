@@ -1,0 +1,15 @@
+C:\.NET Projects\DvtTest\bin\Debug\net6.0\DvtTest.exe
+C:\.NET Projects\DvtTest\bin\Debug\net6.0\DvtTest.deps.json
+C:\.NET Projects\DvtTest\bin\Debug\net6.0\DvtTest.runtimeconfig.json
+C:\.NET Projects\DvtTest\bin\Debug\net6.0\DvtTest.dll
+C:\.NET Projects\DvtTest\bin\Debug\net6.0\DvtTest.pdb
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\DvtTest.csproj.AssemblyReference.cache
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\DvtTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\DvtTest.AssemblyInfoInputs.cache
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\DvtTest.AssemblyInfo.cs
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\DvtTest.csproj.CoreCompileInputs.cache
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\DvtTest.dll
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\refint\DvtTest.dll
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\DvtTest.pdb
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\DvtTest.genruntimeconfig.cache
+C:\.NET Projects\DvtTest\obj\Debug\net6.0\ref\DvtTest.dll
